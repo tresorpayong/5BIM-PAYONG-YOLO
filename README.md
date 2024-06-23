@@ -42,5 +42,5 @@ Ce projet est un système de détection d'ordinateurs et de souris dans des imag
 - Le modèle YOLOv5s est utilisé par défaut pour des raisons de rapidité et d'efficacité.
 
 ## Auteur
-- Votre PAYONG DJOMO JEAN CHARLES TRESOR 
+- PAYONG DJOMO JEAN CHARLES TRESOR 
 - Contact : Tresorpayong10@gmail.com
